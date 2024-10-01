@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Бібліотека дитячих книг</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Бібліотека дитячих книг</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Головна</a></li>
+                <li><a href="children.html">Дитячі книги</a></li>
+                <li><a href="parents.html">Книги для батьків</a></li>
+                <li><a href="resources.html">Додаткові ресурси</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="main-content">
+        <h2>Ласкаво просимо до бібліотеки дитячих книг!</h2>
+        <p>Тут ви знайдете книги для дітей та корисні матеріали для батьків.</p>
+    </section>
+
+    <footer>
+        <p>© 2024 Бібліотека дитячих книг</p>
+    </footer>
+</body>
+</html>
